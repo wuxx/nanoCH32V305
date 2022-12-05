@@ -13,9 +13,9 @@ nanoCH32V305
 # Introduce
 nanoCH32V305 is a development board made by MuseLab based on WCH CH32V305RBT6 with Dual TYPE-C USB interfaces, LCD interface and SD card interface onboard, can be programmed through the USB port, which is convenient for prototype verification and development.
 
-![3](https://github.com/wuxx/nanoCH32V305/blob/master/doc/3.jpg)
+![1](https://github.com/wuxx/nanoCH32V305/blob/master/doc/1.jpg)
+![2](https://github.com/wuxx/nanoCH32V305/blob/master/doc/2.jpg)
 ![4](https://github.com/wuxx/nanoCH32V305/blob/master/doc/4.jpg)
-![5](https://github.com/wuxx/nanoCH32V305/blob/master/doc/5.jpg)
 
 # Feature
 - Dual USB interface, USB1 is USB-FS device, USB2 is USB-HS device
