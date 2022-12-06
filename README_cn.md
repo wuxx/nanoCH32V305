@@ -92,7 +92,7 @@ $sudo /home/pi/.cargo/bin/wchisp flash ./build/app.bin
 ```
 
 # 产品链接
-[nanoCH32V305 Board](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-21349689064.10.6f55773dXd3CDz&id=689934001629)
+[nanoCH32V305 Board](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-21349689064.10.516b773dX0i6on&id=693917864064)
 
 # 参考
 ### WCH

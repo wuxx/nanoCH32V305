@@ -91,7 +91,7 @@ $sudo /home/pi/.cargo/bin/wchisp flash ./build/app.bin
 ```
 
 # Product Link
-[Aliexpress](https://www.aliexpress.com/item/1005004908206775.html?spm=5261.ProductManageOnline.0.0.6b234edfStGkJN  
+[Aliexpress](https://www.aliexpress.com/item/1005005033298927.html?spm=a2g0s.12269583.0.0.20535947csm0Sw
 )
 [Tindie](https://www.tindie.com/products/johnnywu/nanoch32v305-development-board/)
 
