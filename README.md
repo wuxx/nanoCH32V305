@@ -44,16 +44,16 @@ Click Project -> Build Project to compile the project
 
 ## Program
 If use WCH's official downloader WCHLink, click Flash -> Download to program the flash. If you use the USB1 port for program, the operation instructions are as follows  
-Note: The compiled binary file is located in the obj directory of the factory, such as EVT\EXAM\GPIO\GPIO_Toggle\obj\GPIO_Toggle.hex
+Note: The compiled binary file is located in the obj directory of the project, such as EVT\EXAM\GPIO\GPIO_Toggle\obj\GPIO_Toggle.hex
 
-### WCHISPTool Download
-download WCHISPTool at [WCH Official Website](https://www.wch.cn/downloads/WCHISPTool_Setup_exe.html)
+### WCHISPStudio Download
+download WCHISPStudio at [WCH Official Website](https://www.wch.cn/downloads/WCHISPTool_Setup_exe.html)
 
-### WCHISPTool Config
-![ISP-2](https://github.com/wuxx/nanoCH32V305/blob/master/doc/ISP-2.png)
+### WCHISPStudio Config
+![ISP-2](https://github.com/wuxx/nanoCH32V305/blob/master/doc/ISP_EN.png)
 
-The chip series select CH32Vx series, the chip model select CH32V305, and the download method select USB.
-Keep pressing the BOOT button on the development board, then press and release the RST button, and finally release the BOOT button to make the chip enter the bootloader. If the bootloader is successfully entered, the target can be detected in the USB device list in the WCHISPTool.
+The chip series select CH32V30x series, the chip model select CH32V305RBT6, and the download method select USB.
+Keep pressing the BOOT button on the development board, then press and release the RST button, and finally release the BOOT button to make the chip enter the bootloader. If the bootloader is successfully entered, the target can be detected in the USB device list in the WCHISPStudio.
 Then select the bin or hex file to be programmed, and click Download to burn the firmware.
 
 ## Open Source Toolchain

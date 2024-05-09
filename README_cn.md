@@ -45,7 +45,7 @@ nanoCH32V305 是MuseLab基于沁恒CH32V305RBT6芯片推出的开发板，板载
 
 ## 烧录
 若使用沁恒官方的下载器WCHLink，则点击 Flash -> Download 即可完成烧录，若使用自带的USB口进行烧录，则操作说明如下
-注：编译生成的二进制文件位于工厂的obj目录下，如EVT\EXAM\GPIO\GPIO_Toggle\obj\GPIO_Toggle.hex
+注：编译生成的二进制文件位于工程的obj目录下，如EVT\EXAM\GPIO\GPIO_Toggle\obj\GPIO_Toggle.hex
 
 ### WCHISPTool 下载
 可在[沁恒官网](https://www.wch.cn/downloads/WCHISPTool_Setup_exe.html)下载WCHISPTool工具
