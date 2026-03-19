@@ -98,3 +98,6 @@ $sudo /home/pi/.cargo/bin/wchisp flash ./build/app.bin
 # Reference
 ### WCH
 https://www.wch.cn/
+
+### LCD source code
+https://github.com/wuxx/CH32V305-makefile-example
